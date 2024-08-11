@@ -16,7 +16,7 @@ The **Dropshipping Product Research Bot** is an automation tool designed to stre
 ## Installation
 
 1. **Unzip the Project Files:**
-   Extract the contents of the `Dropshipping Product Research Bot.zip` file.
+   Extract the contents of the `UiPath-Automated-Dropshipping-Product-Research-Sentiment-Analysis-Tool-main.zip` file.
 
 2. **Open in UiPath Studio:**
    Open the project in UiPath Studio by navigating to the project folder.
