@@ -15,14 +15,10 @@ The **Dropshipping Product Research Bot** is an automation tool designed to stre
 
 ## Installation
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/dropshipping-product-research-bot.git
-   ```
-2. **Unzip the Project Files:**
+1. **Unzip the Project Files:**
    Extract the contents of the `Dropshipping Product Research Bot.zip` file.
 
-3. **Open in UiPath Studio:**
+2. **Open in UiPath Studio:**
    Open the project in UiPath Studio by navigating to the project folder.
 
 ## Prerequisites
@@ -57,23 +53,15 @@ The **Dropshipping Product Research Bot** is an automation tool designed to stre
   
 - **EmailAutomation.xaml:** Sends the generated PDF report via email.
 
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue to discuss potential changes or improvements.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any inquiries or feedback, please reach out via LinkedIn:
 
-- [Infas Imthisam](https://www.linkedin.com/in/infas-imthisam)
-- [Pasindu Abesinghe](https://www.linkedin.com/in/pasindu-abesinghe-a12408192/)
-- [Navodh Perera](https://lk.linkedin.com/in/navodh-perera-b7bb1120a)
-- [Chiran Hansada](https://lk.linkedin.com/in/chiran-hansada-a53b2431b)
+- [Infas Imthisam](https://www.linkedin.com/in/infas-imthisam) - [Pasindu Abesinghe](https://www.linkedin.com/in/pasindu-abesinghe-a12408192/) - [Navodh Perera](https://lk.linkedin.com/in/navodh-perera-b7bb1120a) - [Chiran Hansada](https://lk.linkedin.com/in/chiran-hansada-a53b2431b)
+
+
+
 
 
 
